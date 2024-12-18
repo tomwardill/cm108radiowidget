@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Cmedia_USB_Audio")(type "KiCad")(uri "/home/tomwardill/radio/kicad-libraries/symbols/Cmedia_USB_Audio.kicad_sym")(options "")(descr ""))
+)
