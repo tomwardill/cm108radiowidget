@@ -823,7 +823,7 @@
 		(descr "Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "inductor")
 		(property "Reference" "L1"
-			(at -5 2 0)
+			(at 1.5 2 0)
 			(layer "F.SilkS")
 			(uuid "23a2fb5b-0628-45ae-8311-6bfd9f46c79c")
 			(effects
@@ -4460,7 +4460,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "4c983627-5a65-48ce-b4cb-3965881d86bb")
 			(effects
@@ -4471,7 +4471,7 @@
 			)
 		)
 		(property "Value" "20p"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "eb2c40aa-f543-46f5-873f-31a1104e49ea")
 			(effects
@@ -4626,7 +4626,7 @@
 			(uuid "c9a9252e-8308-44c8-a0be-4942ebd0dbff")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "1db7b6a1-5832-4ab1-8d43-0b093b261ecc")
 			(effects
